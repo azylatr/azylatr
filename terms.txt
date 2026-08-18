@@ -1,0 +1,88 @@
+INCE Foundation Terms of Use
+
+Version 1.0
+
+Copyright (c) 2022–Present
+INCE Foundation
+Integrated Network for Cognitive Ecosystems
+
+1. Scope
+
+These Terms govern the use of software, documentation, websites, repositories, and other resources published under the INCE Foundation unless explicitly stated otherwise.
+
+These Terms are separate from the applicable software license. Where a software license grants copyright permissions, these Terms govern branding, trademarks, community participation, and acceptable use.
+
+2. Intellectual Property
+
+All copyrights remain with their respective owners.
+
+The names INCE, Integrated Network for Cognitive Ecosystems, official project names, logos, visual identities, trademarks, and other branding assets remain the exclusive property of the INCE Foundation unless otherwise specified.
+
+Nothing in these Terms grants ownership of INCE intellectual property.
+
+3. Trademark Policy
+
+You may accurately reference INCE projects for identification purposes.
+
+You may not:
+
+imply endorsement by the INCE Foundation;
+
+use the INCE name or logo in a misleading manner;
+
+create products, services, or organizations that are likely to confuse users regarding official affiliation;
+
+register confusingly similar trademarks, domains, or branding.
+
+Commercial use of INCE trademarks requires prior written permission unless explicitly permitted by an official trademark policy.
+
+4. Open Source Software
+
+Each software project is distributed under its own software license.
+
+Compliance with these Terms does not replace compliance with the applicable software license.
+
+5. Contributions
+
+Unless otherwise agreed in writing, any intentionally submitted contribution is provided under the same license governing the target project.
+
+Contributors represent that they have sufficient rights to submit their contributions.
+
+6. Acceptable Use
+
+Users shall not knowingly use INCE resources to:
+
+violate applicable laws;
+
+distribute malicious software;
+
+impersonate the INCE Foundation or its maintainers;
+
+misrepresent modified software as official releases.
+
+Forks and derivative works are permitted where allowed by the applicable software license, provided they do not misrepresent themselves as official INCE releases.
+
+7. Third-Party Components
+
+INCE projects may include third-party software distributed under their respective licenses.
+
+Such components remain subject to their original license terms.
+
+8. Disclaimer
+
+All software and related materials are provided "AS IS", without warranties of any kind, whether express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement.
+
+9. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the INCE Foundation, contributors, and copyright holders shall not be liable for any direct, indirect, incidental, special, exemplary, or consequential damages arising from the use of INCE software or related resources.
+
+10. Changes
+
+The INCE Foundation may publish revised versions of these Terms.
+
+Unless otherwise stated, new versions apply prospectively and do not retroactively alter rights previously granted under an applicable software license.
+
+11. Contact
+
+Questions regarding licensing, trademarks, commercial use, or legal matters should be directed to the official INCE Foundation maintainers through the project's official communication channels.
+
