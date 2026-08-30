@@ -1,3 +1,3 @@
-<img src="https://raw.githubusercontent.com/azylatr/azylatr/refs/heads/main/assets/HN_Q7HsaQAAXYds.jpg" alt="" />
+<img src="assets/20260830_024221630.jpg" alt="" />
 
-Building INCE `2022` – The future of transparent and efficient models systems. Founder of INCE and Reapl 🥳
+Founded in 2022, re-established as HFLQ in 2026. The future of transparent and efficient models systems. Founder of HFLQ 🥳
